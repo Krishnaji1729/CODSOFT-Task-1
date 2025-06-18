@@ -12,7 +12,7 @@ This project helps users:
 - Update and mark tasks as complete
 - Save and reload tasks using a JSON file
 
----
+
 
 ## 🛠 Features
 
@@ -25,7 +25,6 @@ This project helps users:
 ✔️ Auto-saving tasks in a `tasks.json` file  
 ✔️ CLI with clean and readable layout  
 
----
 
 ## 🖥️ Technologies Used
 
@@ -34,7 +33,5 @@ This project helps users:
 - **OS Module** (for clearing screen)
 - **Datetime** (for due date format)
 
----
 
-## 📂 File Structure
 
