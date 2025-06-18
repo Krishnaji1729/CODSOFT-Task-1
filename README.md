@@ -1,4 +1,10 @@
 # CODSOFT-Task-1
+ Company: CodSoft  
+ Name: Krishna Ji 
+ Intern ID: CS25RY61978
+ Batch Duration: 5th June 2025 – 5th July 2025  
+ Domain: Python Programming
+
 
 # ✅ To-Do List CLI App in Python
 
