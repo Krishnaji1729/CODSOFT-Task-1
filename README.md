@@ -38,5 +38,6 @@ This project helps users:
 - **OS Module** (for clearing screen)
 - **Datetime** (for due date format)
 
-
+# Output of task
+![Image](https://github.com/user-attachments/assets/86baeab7-8fb7-4251-9899-02764e55fd44)
 
